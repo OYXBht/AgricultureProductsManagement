@@ -240,8 +240,8 @@
 	</div>
 
 
-	<script src="../js/jquery-3.5.1.js"></script>
-	<script src="../js/bootstrap.js"></script>
+	<script src="../../../resources/static/js/jquery-3.5.1.js"></script>
+	<script src="../../../resources/static/js/bootstrap.js"></script>
 
 	<script>
 		$('#deleteUser').on('show.bs.modal', function(event) {

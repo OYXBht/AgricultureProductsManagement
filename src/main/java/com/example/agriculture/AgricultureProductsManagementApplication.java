@@ -1,4 +1,4 @@
-package org.imau.springboot.agriprom;
+package com.example.agriculture;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
